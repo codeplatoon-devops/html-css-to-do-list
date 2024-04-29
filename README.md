@@ -1,7 +1,9 @@
 # Personalized To Do List
 
-## V1
 As a refresher to working with HTML and CSS, we'll be creating a personalized `To Do List` with an `About Me` page that has a short biographical description.  It can be fictional if you want.
+
+## V1
+Using the `index.html`, `about.html`, `style.css` files, build a two-page site that showcases your ten favorite/most intriguing HTML tags or CSS properties.
 
 ## V2
 Create a `To Do list` with an HTML template that will display an unordered list, a header, and tasks. You are not limited in tags so ensure to be creative and have fun in order to get familiarized with HTML.
